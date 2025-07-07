@@ -1,8 +1,9 @@
 
 <div align="center">
- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800" height="280"/>
 
-  <h1>Olá, eu sou o Alexandre Alves de Carvalho! 👋</h1>
+
+  <h1>Olá, eu sou o Alexandre Alves de Carvalho!</h1>
 </div>
 
 <p align="center">
@@ -15,7 +16,7 @@
 
 ### 🚀 Sobre mim
 
-Sou um estudante entusiasmado e curioso, focado em me tornar desenvolvedor full stack. Tenho uma boa base em desenvolvimento web, especialmente no backend com **Node.js e MySQL**, além de noções sólidas de frontend com **HTML, CSS e JavaScript**.
+Sou um estudante entusiasmado e curioso, focado em me tornar desenvolvedor full stack. Tenho uma boa base em desenvolvimento web, especialmente no backend com **Node.js e MySQL**, além de noções de frontend com **HTML, CSS e JavaScript**.
 
 Através de projetos práticos, especialmente com apoio de **inteligência artificial como ferramenta de aprendizado**, venho consolidando minha experiência em **estruturar aplicações completas**, com autenticação, banco de dados, lógica de negócios e interação com o usuário.
 
@@ -61,6 +62,7 @@ Sistema web completo para gerenciamento de eventos com manobristas.
 > - Consulta e saída de veículos  
 > - Geração de relatórios em PDF  
 > - Interface amigável com alertas e máscaras de entrada
+> - Criação de eventos
 
 ---
 
@@ -88,8 +90,8 @@ Projetos backend, automações, dashboards administrativos e qualquer aplicaçã
 
 ### 📫 Como me encontrar:
 
-- 💼 [LinkedIn](https://linkedin.com/in/seu-link-aqui)
-- 📧 Email: **seuemail@gmail.com**
+- 💼 [LinkedIn]([https://linkedin.com/in/seu-link-aqui](https://www.linkedin.com/in/alexandrecarvalhalves/))
+- 📧 Email: **alexandre.carvalho@esoftware.uniceplac.edu.br**
 - 💻 GitHub: [github.com/Alexandre-dev01](https://github.com/Alexandre-dev01)
 
 ---
@@ -100,4 +102,4 @@ Sou movido a desafios práticos. Descobri que aprender com IA e projetos reais t
 
 ---
 
-<p align="center">Feito com ❤️ por <strong>Alexandre Alves de Carvalho</strong></p>
+<p align="center">Feito por <strong>Alexandre Alves de Carvalho</strong></p>
