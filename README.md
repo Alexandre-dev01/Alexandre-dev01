@@ -90,7 +90,7 @@ Projetos backend, automações, dashboards administrativos e qualquer aplicaçã
 
 ### 📫 Como me encontrar:
 
-- 💼 [LinkedIn]([https://linkedin.com/in/seu-link-aqui](https://www.linkedin.com/in/alexandrecarvalhalves/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/alexandrecarvalhalves/)
 - 📧 Email: **alexandre.carvalho@esoftware.uniceplac.edu.br**
 - 💻 GitHub: [github.com/Alexandre-dev01](https://github.com/Alexandre-dev01)
 
